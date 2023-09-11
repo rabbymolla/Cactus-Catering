@@ -1,0 +1,195 @@
+@media (max-width: 575.98px) {
+  .navbar-brand {
+    width: 50% !important;
+  }
+  .manu {
+    background-color: #000;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 4px;
+  }
+  .nav_button button {
+    z-index: 99;
+  }
+  .nav_button button:hover {
+    display: none;
+  }
+  #bannar {
+    padding: 250px 0;
+  }
+  .banner_content {
+    top: 60%;
+  }
+  .bannaer_text h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .bannaer_text p {
+    font-size: 14px;
+    line-height: 20px;
+    padding-right: 0;
+    text-align: center;
+  }
+  .bannaer_text {
+    text-align: center;
+  }
+  .bannaer_text button {
+    font-size: 14px;
+  }
+  .food_hedear p {
+    line-height: 30px;
+  }
+  #footer {
+    padding: 550px 0;
+  }
+  .footer_text h1 {
+    font-size: 22px;
+  }
+  .copy_right_text {
+    padding-top: 10px;
+  }
+  .about_text h1 {
+    font-size: 24px;
+  }
+  .about_text span {
+    font-size: 18px;
+  }
+  .about_text a {
+    font-size: 18px;
+  }
+  .ragistration_hedear h1 {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  .blog_mixTup {
+    display: grid;
+    justify-content: center;
+  }
+  .blog_text {
+    text-align: center;
+  }
+  .blog_text h1 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .testimonials_text {
+    width: 100%;
+  }
+  .testimonials_tittle h1 {
+    font-size: 15px;
+  }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+  .navbar-brand {
+    width: 50% !important;
+  }
+  .manu {
+    background-color: #000;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 10px;
+  }
+  .bannaer_text h1 {
+    font-size: 50px;
+  }
+  .bannaer_text p {
+    padding-right: 0px;
+  }
+  #bannar {
+    padding: 400px 0;
+  }
+  .banner_content {
+    top: 55%;
+  }
+  .food_hedear p {
+    font-size: 16px;
+  }
+  #footer {
+    padding: 340px 0;
+  }
+  .footer_text h1 {
+    font-size: 22px;
+  }
+  .copy_right_text {
+    padding-top: 10px;
+  }
+  .about_text h1 {
+    font-size: 40px;
+  }
+  .about_text span {
+    font-size: 21px;
+  }
+  .blog_mixTup a {
+    font-size: 15px;
+  }
+  .blog_text h1 {
+    font-size: 15px;
+    line-height: 20px;
+  }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+  .navbar-brand {
+    width: 30% !important;
+  }
+  .manu {
+    background-color: #000;
+    text-align: center;
+    padding: 40px 0;
+    margin-top: 10px;
+  }
+  #footer {
+    padding: 200px 0;
+  }
+  .footer_text h1 {
+    font-size: 14px;
+  }
+  .footer_manu a {
+    font-size: 14px;
+  }
+  .footer_link p {
+    font-size: 14px;
+  }
+  .copy_right_text p {
+    font-size: 14px;
+  }
+  .copy_right_text a {
+    font-size: 13px;
+  }
+  .blog_text h1 {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .testimonials_tittle h1 {
+    font-size: 18px;
+  }
+  .testimonials_text {
+    width: 100%;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+  .navbar-nav .nav-item {
+    margin-right: 14px;
+  }
+  .navbar-nav .nav-link {
+    font-size: 14px;
+  }
+  .footer_text h1 {
+    font-size: 18px;
+  }
+  .food_hedear p {
+    font-size: 17px;
+  }
+  .blog_text h1 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .testimonials_tittle h1 {
+    font-size: 25px;
+  }
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+  .footer_text h1 {
+    font-size: 24px;
+  }
+}
